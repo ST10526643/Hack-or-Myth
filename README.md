@@ -24,8 +24,8 @@ What the app does
 YouTube Link
 - This is the link to the Youtube video of me showing and explaining the codes
 - https://youtube.com/watch?v=Q3VXItquII4&feature=shared
- Use of GitHub & GitHub Actions
 
+Use of GitHub & GitHub Actions
 GitHub 
 - Stores all source code and documentation  
 - Tracks changes with commits and branches  
